@@ -5,6 +5,11 @@ The goal of this app is to refresh the token retrieved from HEIG-VD Keycloak Aut
 and use it in a postman to develop the backend of this repo:
 https://github.com/heig-fablab/fablab-manager
 
+## Credits
+Template adapted from: \
+https://github.com/keycloak/keycloak-quickstarts \
+https://github.com/keycloak/keycloak-quickstarts/tree/latest/applications/app-vue
+
 ## Installation
 
 To contribute to this project, you need to install a few dependencies that we will explain later.
@@ -44,7 +49,7 @@ npm install
 
 Just run:
 ````
-npm run dev
+npm run serve
 ````
 
 Go to http://localhost:8000

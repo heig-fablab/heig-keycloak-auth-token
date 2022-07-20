@@ -19,12 +19,6 @@
         </ul>
       </div>
     </div>
-    <h2>Essential Links</h2>
-    <ul>
-      <li><a href="https://keycloak.org" target="_blank">Keycloak</a></li>
-      <li><a href="https://github.com/keycloak/keycloak-quickstarts" target="_blank">Code Repo</a></li>
-      <li><a href="https://twitter.com/keycloak" target="_blank">Twitter</a></li>
-    </ul>
   </div>
 </template>
 
