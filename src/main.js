@@ -1,5 +1,5 @@
-import Vue from 'vue'
-import App from './App.vue'
+import Vue from 'vue';
+import App from './App.vue';
 import * as Keycloak from 'keycloak-js';
 
 let initOptions = {
@@ -7,7 +7,7 @@ let initOptions = {
   realm: `${process.env.VUE_APP_CLOAK_REALM}`,
   clientId: `${process.env.VUE_APP_CLOAK_CLIENT_ID}`,
   onLoad: 'login-required'
-}
+};
 
 let keycloak = Keycloak(initOptions);
 

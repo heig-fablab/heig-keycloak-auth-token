@@ -76,7 +76,6 @@ a {
   margin: 10 0 10px;
   font-size: 13px;
   line-height: 1.42857143;
-  color: #333;
   word-break: break-all;
   word-wrap: break-word;
   background-color: #f5f5f5;
