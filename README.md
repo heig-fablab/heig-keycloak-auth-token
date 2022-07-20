@@ -16,12 +16,13 @@ To contribute to this project, you need to install a few dependencies that we wi
 
 ### Dependencies
 
-| Techno  | Version |
-|---------|---------|
-| npm     | 6.14.12 |
-| Node.js | 14.16.1 |
-| Vue.js  | 2.5.11  |
-
+| Techno     | Version |
+|------------|---------|
+| nvm        | 1.1.8   |
+| npm        | 6.14.12 |
+| Node.js    | 14.16.1 |
+| Vue.js     | 2.6.14  |
+| Vue.js cli | 5.0.5   |
 
 #### Install Node.js
 To run this project you need to install Node.js.
